@@ -1,4 +1,4 @@
-#
+#https://github.com/MarkovIlya/Task_for_Infomation_Security_1
 import cryptocode
 from passlib.hash import md5_crypt
 pas = md5_crypt.hash("password")
